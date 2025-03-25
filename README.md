@@ -1,5 +1,3 @@
-# 🛒 REPO No Shop
-
 ## ✨ Overview
 Created for challenge runs, this mod prevents the map tool from being opened.
 
