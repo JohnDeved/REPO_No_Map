@@ -1,0 +1,9 @@
+{
+    "name":  "REPO_No_Map",
+    "description":  "Created for challenge runs, this mod prevents the map tool from being opened.",
+    "version_number":  "1.0.0",
+    "dependencies":  [
+                         "BepInEx-BepInExPack-5.4.2100"
+                     ],
+    "website_url":  "https://github.com/JohnDeved/REPO_No_Map"
+}
